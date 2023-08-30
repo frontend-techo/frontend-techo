@@ -11,7 +11,7 @@ Skills: Jest · Webpack  · Cascading Style Sheets (CSS) · redux · React.js ·
 
 Also, I play a role as a Senior Software Engginner  📈 at Cybage Software  apart from my existing role and responsibilities in the project. Getting an opportunity to interact with many people and sharing thoughts out of the box🗃.
 
-LinkedIn - https://www.linkedin.com/in/priya-bagde/
+LinkedIn - https://www.linkedin.com/in/ramzan-ali-khan-6b7995158/?originalSubdomain=in
 GitHub -   https://github.com/frontend-techo/frontend-techo
 Leetcode - https://leetcode.com/ramzanali75/
 Portfolio - For portfolio connect with me.
