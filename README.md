@@ -18,4 +18,5 @@ LinkedIn - https://www.linkedin.com/in/ramzan-ali-khan-6b7995158/?originalSubdom
 GitHub -   https://github.com/frontend-techo/frontend-techo
 
 Leetcode - https://leetcode.com/RamzanAliKhan/
+
 Portfolio - For portfolio connect with me.
